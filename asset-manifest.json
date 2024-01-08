@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/mehmettemizkan/react-portfolio/static/css/main.f855e6bc.css",
-    "main.js": "/mehmettemizkan/react-portfolio/static/js/main.a8fba555.js",
-    "static/js/787.2dcca737.chunk.js": "/mehmettemizkan/react-portfolio/static/js/787.2dcca737.chunk.js",
-    "static/media/logo.svg": "/mehmettemizkan/react-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/mehmettemizkan/react-portfolio/index.html",
-    "main.f855e6bc.css.map": "/mehmettemizkan/react-portfolio/static/css/main.f855e6bc.css.map",
-    "main.a8fba555.js.map": "/mehmettemizkan/react-portfolio/static/js/main.a8fba555.js.map",
-    "787.2dcca737.chunk.js.map": "/mehmettemizkan/react-portfolio/static/js/787.2dcca737.chunk.js.map"
+    "main.css": "/react-portfolio/static/css/main.f855e6bc.css",
+    "main.js": "/react-portfolio/static/js/main.b65bbb38.js",
+    "static/js/787.2dcca737.chunk.js": "/react-portfolio/static/js/787.2dcca737.chunk.js",
+    "static/media/logo.svg": "/react-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-portfolio/index.html",
+    "main.f855e6bc.css.map": "/react-portfolio/static/css/main.f855e6bc.css.map",
+    "main.b65bbb38.js.map": "/react-portfolio/static/js/main.b65bbb38.js.map",
+    "787.2dcca737.chunk.js.map": "/react-portfolio/static/js/787.2dcca737.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.a8fba555.js"
+    "static/js/main.b65bbb38.js"
   ]
 }
