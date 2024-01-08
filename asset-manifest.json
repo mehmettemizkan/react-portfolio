@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.3a6cf503.css",
-    "main.js": "/react-portfolio/static/js/main.a3c533c3.js",
+    "main.js": "/react-portfolio/static/js/main.aacc066e.js",
     "static/media/javascript-challenge.png": "/react-portfolio/static/media/javascript-challenge.9d912cd5985add4308d2.png",
     "static/media/bootstrap-demos.png": "/react-portfolio/static/media/bootstrap-demos.b80b2a4284ebb1015a47.png",
     "static/media/asian-kitchen-s-menu.png": "/react-portfolio/static/media/asian-kitchen-s-menu.38e9a3821a6a96536e7b.png",
@@ -13,10 +13,10 @@
     "static/media/contact.jpeg": "/react-portfolio/static/media/contact.4df94c7e080f3b34e7cc.jpeg",
     "index.html": "/react-portfolio/index.html",
     "main.3a6cf503.css.map": "/react-portfolio/static/css/main.3a6cf503.css.map",
-    "main.a3c533c3.js.map": "/react-portfolio/static/js/main.a3c533c3.js.map"
+    "main.aacc066e.js.map": "/react-portfolio/static/js/main.aacc066e.js.map"
   },
   "entrypoints": [
     "static/css/main.3a6cf503.css",
-    "static/js/main.a3c533c3.js"
+    "static/js/main.aacc066e.js"
   ]
 }
