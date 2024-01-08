@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.f855e6bc.css",
-    "main.js": "/react-portfolio/static/js/main.b65bbb38.js",
-    "static/js/787.2dcca737.chunk.js": "/react-portfolio/static/js/787.2dcca737.chunk.js",
-    "static/media/logo.svg": "/react-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/react-portfolio/static/css/main.3a6cf503.css",
+    "main.js": "/react-portfolio/static/js/main.3795e9a8.js",
+    "static/media/javascript-challenge.png": "/react-portfolio/static/media/javascript-challenge.9d912cd5985add4308d2.png",
+    "static/media/bootstrap-demos.png": "/react-portfolio/static/media/bootstrap-demos.b80b2a4284ebb1015a47.png",
+    "static/media/asian-kitchen-s-menu.png": "/react-portfolio/static/media/asian-kitchen-s-menu.38e9a3821a6a96536e7b.png",
+    "static/media/react2.jpeg": "/react-portfolio/static/media/react2.188386303da4dc31caac.jpeg",
+    "static/media/intro-bg.jpeg": "/react-portfolio/static/media/intro-bg.cf2364827d8b8a98642e.jpeg",
+    "static/media/react1.jpeg": "/react-portfolio/static/media/react1.d554874d557ed857eb06.jpeg",
+    "static/media/projects.jpeg": "/react-portfolio/static/media/projects.d4dabae607f0e8f2a13e.jpeg",
+    "static/media/aboutme.jpeg": "/react-portfolio/static/media/aboutme.63d03feda89dd9fe64c4.jpeg",
+    "static/media/contact.jpeg": "/react-portfolio/static/media/contact.4df94c7e080f3b34e7cc.jpeg",
     "index.html": "/react-portfolio/index.html",
-    "main.f855e6bc.css.map": "/react-portfolio/static/css/main.f855e6bc.css.map",
-    "main.b65bbb38.js.map": "/react-portfolio/static/js/main.b65bbb38.js.map",
-    "787.2dcca737.chunk.js.map": "/react-portfolio/static/js/787.2dcca737.chunk.js.map"
+    "main.3a6cf503.css.map": "/react-portfolio/static/css/main.3a6cf503.css.map",
+    "main.3795e9a8.js.map": "/react-portfolio/static/js/main.3795e9a8.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.b65bbb38.js"
+    "static/css/main.3a6cf503.css",
+    "static/js/main.3795e9a8.js"
   ]
 }
